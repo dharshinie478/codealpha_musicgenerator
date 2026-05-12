@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+    background: #f0f0f0;
+    text-align: center;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+button {
+    padding: 15px 25px;
+    font-size: 18px;
+}
+
+#notes {
+    margin-top: 20px;
+    font-size: 22px;
+}
