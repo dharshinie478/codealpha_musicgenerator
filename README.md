@@ -1,0 +1,2 @@
+# codealpha_musicgenerator
+Artificial intelligence
